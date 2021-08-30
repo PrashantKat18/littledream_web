@@ -1,0 +1,42 @@
+
+
+      .selectedView {
+        color: #ebe7fe;
+        background-color: #48435a;
+      }
+
+      .unSelectedView {
+        font-size: 16px;
+        padding: 4px 10px;
+        margin: 0px 16px 0px 0px;
+        border-radius: 8px;
+        font-family: "Roboto", sans-serif;
+        line-height: 1.4;
+      }
+
+
+      .icon {
+        color: #16c3b0;
+      }
+
+      .icon_red{
+        color: #fd4d40;
+      }
+
+      .facility_block_1 {
+        background-color: #fd4d40;
+        padding: 30px;
+      }
+
+      .facility_block_2 {
+        background-color: #fdb62f;
+        padding: 30px;
+      }
+
+      .facility_block_3 {
+        background-color: #16c3b0;
+        padding: 30px;
+      }
+
+
+  
